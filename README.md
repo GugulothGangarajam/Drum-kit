@@ -1,5 +1,5 @@
 # Drum-kit
-# travels
 
-[Click Here](https://rajam-website.herokuapp.com/) to see website
+
+[Click Here](https://rajam-drumkit.herokuapp.com/) to see website
 
